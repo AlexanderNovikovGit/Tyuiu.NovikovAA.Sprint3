@@ -1,12 +1,11 @@
-namespace Tyuiu.NovikAA.Sprint3.Task0.V10.Test
+namespace Tyuiu.NovikovAA.Sprint3.Task0.V10.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public class UnitTest1
     {
         [TestMethod]
         public void TestMethod1()
         {
-
         }
     }
 }
