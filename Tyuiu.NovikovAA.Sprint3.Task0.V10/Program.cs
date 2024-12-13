@@ -29,6 +29,7 @@ double result = 0;
 
 DataService DS = new();
 
+
 result = DS.GetMultiplySeries(value, start, end);
 result =  Math.Round(result, 3);
 
