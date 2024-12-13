@@ -31,6 +31,5 @@ DataService DS = new();
 
 
 result = DS.GetMultiplySeries(value, start, end);
-result =  Math.Round(result, 3);
 
 Console.WriteLine(result);

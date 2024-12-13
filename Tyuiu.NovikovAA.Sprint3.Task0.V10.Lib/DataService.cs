@@ -12,6 +12,8 @@ namespace Tyuiu.NovikAA.Sprint3.Task0.V10.Lib
             {
                 result *= Math.Pow(300 / (i + Math.Pow(value, i)), i);
             }
+            result = Math.Round(result, 3);
+
             return result;
         }
     }
